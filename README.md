@@ -45,13 +45,12 @@ Escrevo feitiços (tutoriais) para iniciantes e magos seniores:
 
 ## 📿 **Encontre-me nas Dimensões Digitais**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seuperfil)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/magodaprogramacao)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seuperfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaphobrito)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asphzeera)  
 
 ---  
 
-💡 **Desafio para você**: Tente me superar... se conseguir! *(Dica: Você não vai.)*  
+💡 **Desafio para você**: Tente me superar... se conseguir! *(Dica: Você nunca vai.)*  
 
 ⭐ **Se gostou do que viu, deixe uma estrela no meu repositório favorito!**  
 
