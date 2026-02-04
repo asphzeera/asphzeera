@@ -9,6 +9,7 @@ Eu sou um Engenheiro de Software, estou aprendendo a programar e avançar, dando
 
 ## Meu sistema Operacional**  
 
-- ** `AsphOS`** – O meu sistema NixOS, atualmente está desatualizado, mas vou voltar a upar. 
+- ** `AsphOS`** – O meu sistema NixOS, atualmente está desatualizado, mas vou voltar a upar.
+- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaphobrito)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asphzeera)  
